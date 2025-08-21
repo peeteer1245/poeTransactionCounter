@@ -33,6 +33,14 @@ var levenshtein = (function() {
 
 const elements = document.querySelectorAll(".packageName", ".el", ".FontinBold");
 const microtransactions = {
+    // Mercenaries of Trarthus
+    "Cryptkeeper": 30,
+    "Hallowed Cryptkeeper": 60,
+    "Sacred Cryptkeeper": 90,
+    "Phrecian Magistrate": 30,
+    "Phrecian Grand Magistrate": 60,
+    "Phrecian Imperial Magistrate": 90,
+
     // PoE2 Early Access
     "Path of Exile 2 Early Access": 30,
     "Lord of Ogham": 60,

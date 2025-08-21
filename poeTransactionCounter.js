@@ -33,6 +33,14 @@ var levenshtein = (function() {
 
 const elements = document.querySelectorAll(".packageName", ".el", ".FontinBold");
 const microtransactions = {
+    // Rise of the Abyssal
+    "Trarthan Executioner": 30,
+    "Cruel Trarthan Executioner": 60,
+    "Merciless Trarthan Executioner": 90,
+    "Justice": 30,
+    "Apostle of Justice": 60,
+    "Herald of Justice": 90,
+
     // Mercenaries of Trarthus
     "Cryptkeeper": 30,
     "Hallowed Cryptkeeper": 60,

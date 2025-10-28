@@ -33,6 +33,14 @@ var levenshtein = (function() {
 
 const elements = document.querySelectorAll(".packageName", ".el", ".FontinBold");
 const microtransactions = {
+    // Keepers of the Flame
+    "Champion of Theopolis": 30,
+    "Grand Champion of Theopolis": 60,
+    "Eternal Champion of Theopolis": 90,
+    "Verdant Magus": 30,
+    "Grand Verdant Magus": 60,
+    "Supreme Verdant Magus": 90,
+
     // Rise of the Abyssal
     "Trarthan Executioner": 30,
     "Cruel Trarthan Executioner": 60,

@@ -33,6 +33,14 @@ var levenshtein = (function() {
 
 const elements = document.querySelectorAll(".packageName", ".el", ".FontinBold");
 const microtransactions = {
+    // The Last of the Druids
+    "Kalguuran": 30,
+    "Kalguuran Seafarer": 60,
+    "Kalguuran Captain": 90,
+    "Precursor": 30,
+    "Awakened Precursor": 60,
+    "Eternal Precursor": 90,
+
     // Keepers of the Flame
     "Champion of Theopolis": 30,
     "Grand Champion of Theopolis": 60,
